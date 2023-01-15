@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EllKuu
-- 👀 I’m interested in mobile development, investing and lots more. 
-- 🌱 
+- 👀 I’m interested in mobile development.
 - :computer: Check out my personal website - ellkuu.github.io
 
 <!---
